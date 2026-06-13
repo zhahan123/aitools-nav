@@ -30,6 +30,7 @@ const toolsData=[
   {name:'Jasper',cat:'Writing',icon:'✍️',color:'#e11d48',desc:'AI marketing copywriter. Blog posts, ads, emails, social media — brand voice trained.',url:'https://jasper.ai',tag:'Marketing'},
   {name:'Grammarly',cat:'Writing',icon:'📝',color:'#11b981',desc:'AI writing assistant. Grammar, tone, clarity, plagiarism check. Browser + desktop.',url:'https://grammarly.com',tag:'Essential'},
   {name:'Notion AI',cat:'Productivity',icon:'📋',color:'#000',desc:'AI inside Notion workspace. Write, summarize, translate, brainstorm — all in one.',url:'https://notion.so/product/ai',tag:'Workspace'},
+  {name:'Remio',cat:'Productivity',icon:'🧠',color:'#10a37f',desc:'Local-first AI memory and knowledge base. Parse files, webpages, recordings, emails, messages, images, and notes into searchable context.',url:'https://remio.ai/',tag:'Knowledge'},
   {name:'ElevenLabs',cat:'Audio',icon:'🎧',color:'#818cf8',desc:'Best AI voice synthesis. Text-to-speech, voice cloning, dubbing in 29 languages.',url:'https://elevenlabs.io',tag:'Best Voice'},
   {name:'Suno',cat:'Audio',icon:'🎵',color:'#9333ea',desc:'AI music generator. Create full songs from text — lyrics, melody, instrumentation.',url:'https://suno.ai',tag:'Music'},
   {name:'Udio',cat:'Audio',icon:'🎶',color:'#dc2626',desc:'AI music creation. Pro-quality tracks, custom genres, stem separation for remixing.',url:'https://udio.com',tag:'Music Pro'},
