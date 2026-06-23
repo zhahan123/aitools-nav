@@ -20,7 +20,7 @@ img{max-width:100%}
 nav{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.95);border-bottom:1px solid var(--border);backdrop-filter:blur(10px)}
 nav .inner{max-width:1200px;margin:0 auto;padding:0 24px;display:flex;align-items:center;justify-content:space-between;height:56px}
 nav .logo{font-weight:700;font-size:1.15rem;color:var(--text)}
-nav .logo span{background:linear-gradient(135deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+nav .logo span{color:var(--accent)}
 nav .nav-links{display:flex;gap:4px}
 nav .nav-links a{padding:8px 16px;font-size:.84rem;color:var(--text2);border-radius:8px;transition:.15s}
 nav .nav-links a:hover,nav .nav-links a.active{background:rgba(99,102,241,.08);color:var(--accent)}
@@ -28,7 +28,7 @@ nav .nav-links a:hover,nav .nav-links a.active{background:rgba(99,102,241,.08);c
 /* Hero */
 .hero{padding:72px 24px 60px;text-align:center;background:linear-gradient(180deg,#eef2ff 0%,#f8fafc 100%)}
 .hero h1{font-size:2.6rem;color:var(--text);margin-bottom:12px}
-.hero h1 span{background:linear-gradient(135deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.hero h1 span{color:var(--accent)}
 .hero p{color:var(--text2);font-size:1.05rem;max-width:550px;margin:0 auto 24px}
 .hero .count{color:var(--accent2);font-weight:600}
 
